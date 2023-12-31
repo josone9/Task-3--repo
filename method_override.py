@@ -29,3 +29,6 @@ def main():
 
     # Call the can_drive() method
     person.can_drive()
+
+if __name__ == "__main__":
+    main()
